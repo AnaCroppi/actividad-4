@@ -8,9 +8,9 @@
 
 ## Estructura
 
- `Product.kt` — Modelo de datos
- `ProductUtils.kt` — Lógica de presentación
- `ProductUtilsTest.kt` — Pruebas unitarias
+  `Product.kt` — Modelo de datos
+  `ProductUtils.kt` — Lógica de presentación
+  `ProductUtilsTest.kt` — Pruebas unitarias
 
 ## Ejecutar
 
